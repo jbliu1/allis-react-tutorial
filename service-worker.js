@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/jbliu1/allis-react-tutorial.git/precache-manifest.1aa8d2f87028dcd75c74582e17b84e06.js"
+  "/jbliu1/allis-react-tutorial.git/precache-manifest.08a5612298f6246330854cfdbaf676df.js"
 );
 
 workbox.clientsClaim();

@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/jbliu1/allis-react-tutorial.git/static/css/main.8180b719.chunk.css"
   },
   {
-    "revision": "76b7aaffaf778dbbf93bd34332c3eb39",
+    "revision": "af87386f344ecd7fa9a544c88b9542e4",
     "url": "/jbliu1/allis-react-tutorial.git/index.html"
   }
 ];
